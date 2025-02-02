@@ -1,6 +1,5 @@
 # 🔍 OSINT Data Gathering Tool
 
-![Project Screenshot](https://yourimageurl.com/screenshot.png)  <!-- Add a screenshot later -->
 
 ## 🛠️ About
 **OSINT Data Gathering Tool** is an automated reconnaissance script that collects publicly available information about a target using:
