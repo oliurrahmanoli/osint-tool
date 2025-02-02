@@ -19,7 +19,7 @@
 ## 🚀 Installation
 1. **Clone the repo**
    
-   git clone https://github.com/yourusername/osint-tool.git
+   git clone https://github.com/oliurrahmanoli/osint-tool.git
    cd osint-tool
    
 2.Create a virtual environment (optional)
